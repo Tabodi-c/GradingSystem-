@@ -1,4 +1,4 @@
-# Student Grading & History System
+# Student GradingSystem & History
 
 A simple, console-based Java application that calculates student grade averages, evaluates academic honors, and maintains a session history log.
 
